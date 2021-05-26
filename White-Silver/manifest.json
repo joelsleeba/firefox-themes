@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.1.1",
+  "version": "1.1.2",
   "name": "White Silver",
   "theme": {
     "images": {},
@@ -35,8 +35,8 @@
       "tab_selected": "rgb(255, 255, 255)",
       "tab_text": "rgb(43, 43, 43)",
       "toolbar_bottom_separator": "rgb(255, 255, 255)",
-      "toolbar_field_border_focus": "rgb(233, 233, 233)",
-      "toolbar_field_border": "rgb(222, 222, 222)",
+      "toolbar_field_border_focus": "rgb(247, 247, 247)",
+      "toolbar_field_border": "rgb(255, 255, 255)",
       "toolbar_field_focus": "rgb(255, 255, 255)",
       "toolbar_field_highlight_text": "rgb(43, 43, 43)",
       "toolbar_field_highlight": "rgb(222, 222, 222)",
